@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Country Markers with Connections</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+
+    <div id="mapcontainer">
+        <div id="mapid" style="height: 500px; width:1000px"></div>
+    </div>
+    <div class="controls">
+
+  
+        <input type="number" id="yearInput" placeholder="Yıl (Örn. 2015)" />
+        <button onclick="filterByYear()">Yıla Göre Filtrele</button>
+    </div>
+    <canvas id="myChart" width="400" height="200" ></canvas>
+
+    <!-- Leaflet.js -->
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <!-- app.js -->
+    <script src="app.js"></script>
+</body>
+
+</html>

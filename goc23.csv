@@ -1,0 +1,539 @@
+Country of birth/nationality,Country,Year,Value
+France,France,2019,0.0
+France,Germany,2019,7057.0
+France,Germany,2019,6649.0
+France,Germany,2019,14486.0
+France,Germany,2019,13603.0
+France,Germany,2019,5.0
+France,Greece,2019,0.0
+France,Italy,2019,1056.0
+France,Italy,2019,329.0
+France,Italy,2019,2061.0
+France,Italy,2019,634.0
+France,Italy,2019,0.0
+France,Portugal,2019,2361.0
+France,Portugal,2019,4390.0
+France,Portugal,2019,0.0
+France,Spain,2019,5969.0
+France,Spain,2019,3095.0
+France,Spain,2019,12125.0
+France,Spain,2019,6416.0
+France,Spain,2019,5.0
+France,Switzerland,2019,6103.0
+France,Switzerland,2019,3429.0
+France,Switzerland,2019,13961.0
+France,Switzerland,2019,7986.0
+France,Switzerland,2019,0.0
+France,Türkiye,2019,498.0
+France,Türkiye,2019,1064.0
+France,United Kingdom,2019,15000.0
+France,United Kingdom,2019,0.0
+Germany,France,2019,3014.0
+Germany,France,2019,5700.0
+Germany,France,2019,0.0
+Germany,Germany,2019,0.0
+Germany,Greece,2019,0.0
+Germany,Italy,2019,995.0
+Germany,Italy,2019,627.0
+Germany,Italy,2019,1835.0
+Germany,Italy,2019,0.0
+Germany,Portugal,2019,1257.0
+Germany,Portugal,2019,2825.0
+Germany,Portugal,2019,0.0
+Germany,Spain,2019,4650.0
+Germany,Spain,2019,3914.0
+Germany,Spain,2019,9428.0
+Germany,Spain,2019,7802.0
+Germany,Spain,2019,5.0
+Germany,Switzerland,2019,8544.0
+Germany,Switzerland,2019,5516.0
+Germany,Switzerland,2019,19914.0
+Germany,Switzerland,2019,13338.0
+Germany,Switzerland,2019,5.0
+Germany,Türkiye,2019,4658.0
+Germany,Türkiye,2019,9417.0
+Germany,United Kingdom,2019,9663.0
+Germany,United Kingdom,2019,0.0
+Greece,France,2019,543.0
+Greece,France,2019,915.0
+Greece,France,2019,0.0
+Greece,Germany,2019,8885.0
+Greece,Germany,2019,7097.0
+Greece,Germany,2019,23530.0
+Greece,Germany,2019,20363.0
+Greece,Germany,2019,0.0
+Greece,Greece,2019,0.0
+Greece,Italy,2019,339.0
+Greece,Italy,2019,60.0
+Greece,Italy,2019,611.0
+Greece,Italy,2019,118.0
+Greece,Italy,2019,0.0
+Greece,Portugal,2019,0.0
+Greece,Spain,2019,371.0
+Greece,Spain,2019,155.0
+Greece,Spain,2019,800.0
+Greece,Spain,2019,373.0
+Greece,Spain,2019,0.0
+Greece,Switzerland,2019,756.0
+Greece,Switzerland,2019,261.0
+Greece,Switzerland,2019,1798.0
+Greece,Switzerland,2019,617.0
+Greece,Switzerland,2019,0.0
+Greece,Türkiye,2019,2893.0
+Greece,Türkiye,2019,5848.0
+Greece,United Kingdom,2019,8858.0
+Greece,United Kingdom,2019,0.0
+Italy,France,2019,6639.0
+Italy,France,2019,14631.0
+Italy,France,2019,0.0
+Italy,Germany,2019,19878.0
+Italy,Germany,2019,15598.0
+Italy,Germany,2019,50408.0
+Italy,Germany,2019,41954.0
+Italy,Germany,2019,10.0
+Italy,Greece,2019,0.0
+Italy,Italy,2019,0.0
+Italy,Portugal,2019,3360.0
+Italy,Portugal,2019,7865.0
+Italy,Portugal,2019,0.0
+Italy,Spain,2019,15621.0
+Italy,Spain,2019,4091.0
+Italy,Spain,2019,33362.0
+Italy,Spain,2019,9554.0
+Italy,Spain,2019,0.0
+Italy,Switzerland,2019,6192.0
+Italy,Switzerland,2019,3188.0
+Italy,Switzerland,2019,15926.0
+Italy,Switzerland,2019,8952.0
+Italy,Switzerland,2019,5.0
+Italy,Türkiye,2019,241.0
+Italy,Türkiye,2019,604.0
+Italy,United Kingdom,2019,18000.0
+Italy,United Kingdom,2019,10.0
+Portugal,France,2019,3686.0
+Portugal,France,2019,7643.0
+Portugal,Germany,2019,2806.0
+Portugal,Germany,2019,2752.0
+Portugal,Germany,2019,8080.0
+Portugal,Germany,2019,8103.0
+Portugal,Italy,2019,259.0
+Portugal,Italy,2019,72.0
+Portugal,Italy,2019,528.0
+Portugal,Italy,2019,148.0
+Portugal,Spain,2019,3643.0
+Portugal,Spain,2019,1907.0
+Portugal,Spain,2019,8707.0
+Portugal,Spain,2019,5239.0
+Portugal,Spain,2019,5.0
+Portugal,Switzerland,2019,3460.0
+Portugal,Switzerland,2019,4625.0
+Portugal,Switzerland,2019,8347.0
+Portugal,Switzerland,2019,10528.0
+Portugal,Switzerland,2019,0.0
+Portugal,Türkiye,2019,36.0
+Portugal,Türkiye,2019,110.0
+Portugal,United Kingdom,2019,17000.0
+Portugal,United Kingdom,2019,5.0
+Spain,France,2019,5159.0
+Spain,France,2019,10466.0
+Spain,Germany,2019,8327.0
+Spain,Germany,2019,7200.0
+Spain,Germany,2019,18698.0
+Spain,Italy,2019,1135.0
+Spain,Italy,2019,298.0
+Spain,Italy,2019,2114.0
+Spain,Portugal,2019,1543.0
+Spain,Portugal,2019,3246.0
+Spain,Switzerland,2019,2465.0
+Spain,Switzerland,2019,5189.0
+Spain,Switzerland,2019,3437.0
+Spain,Türkiye,2019,177.0
+Spain,Türkiye,2019,442.0
+Spain,United Kingdom,2019,18000.0
+Switzerland,France,2019,33.0
+Switzerland,France,2019,58.0
+Switzerland,France,2019,0.0
+Switzerland,Germany,2019,2182.0
+Switzerland,Germany,2019,4161.0
+Switzerland,Germany,2019,2945.0
+Switzerland,Germany,2019,0.0
+Switzerland,Greece,2019,0.0
+Switzerland,Italy,2019,283.0
+Switzerland,Italy,2019,499.0
+Switzerland,Italy,2019,184.0
+Switzerland,Italy,2019,0.0
+Switzerland,Portugal,2019,226.0
+Switzerland,Portugal,2019,473.0
+Switzerland,Portugal,2019,0.0
+Switzerland,Spain,2019,746.0
+Switzerland,Spain,2019,1412.0
+Switzerland,Spain,2019,747.0
+Switzerland,Spain,2019,0.0
+Switzerland,Switzerland,2019,0.0
+Switzerland,Türkiye,2019,128.0
+Switzerland,Türkiye,2019,239.0
+Switzerland,United Kingdom,2019,0.0
+Türkiye,France,2019,2196.0
+Türkiye,France,2019,5077.0
+Türkiye,France,2019,4110.0
+Türkiye,Germany,2019,14924.0
+Türkiye,Germany,2019,7669.0
+Türkiye,Germany,2019,43775.0
+Türkiye,Germany,2019,25407.0
+Türkiye,Germany,2019,10785.0
+Türkiye,Greece,2019,3795.0
+Türkiye,Italy,2019,521.0
+Türkiye,Italy,2019,90.0
+Türkiye,Italy,2019,1111.0
+Türkiye,Italy,2019,199.0
+Türkiye,Italy,2019,450.0
+Türkiye,Portugal,2019,10.0
+Türkiye,Spain,2019,504.0
+Türkiye,Spain,2019,211.0
+Türkiye,Spain,2019,1070.0
+Türkiye,Spain,2019,513.0
+Türkiye,Spain,2019,160.0
+Türkiye,Switzerland,2019,882.0
+Türkiye,Switzerland,2019,406.0
+Türkiye,Switzerland,2019,1966.0
+Türkiye,Switzerland,2019,848.0
+Türkiye,Switzerland,2019,1225.0
+Türkiye,United Kingdom,2019,6000.0
+Türkiye,United Kingdom,2019,1266.0
+United Kingdom,France,2019,4183.0
+United Kingdom,France,2019,8696.0
+United Kingdom,Germany,2019,4125.0
+United Kingdom,Germany,2019,3620.0
+United Kingdom,Germany,2019,11632.0
+United Kingdom,Germany,2019,9321.0
+United Kingdom,Italy,2019,1648.0
+United Kingdom,Italy,2019,279.0
+United Kingdom,Italy,2019,3461.0
+United Kingdom,Italy,2019,531.0
+United Kingdom,Portugal,2019,3708.0
+United Kingdom,Portugal,2019,8353.0
+United Kingdom,Spain,2019,13674.0
+United Kingdom,Spain,2019,6376.0
+United Kingdom,Spain,2019,29363.0
+United Kingdom,Spain,2019,13019.0
+United Kingdom,Switzerland,2019,1667.0
+United Kingdom,Switzerland,2019,1205.0
+United Kingdom,Switzerland,2019,3988.0
+United Kingdom,Switzerland,2019,2831.0
+United Kingdom,Türkiye,2019,1921.0
+United Kingdom,Türkiye,2019,4069.0
+Spain,Germany,2019,65000.0
+France,Italy,2019,96.0
+France,Germany,2019,69000.0
+United Kingdom,Türkiye,2019,18101.0
+Italy,Portugal,2019,7740.0
+Germany,France,2019,107733.0
+United Kingdom,Türkiye,2019,11701.0
+Germany,Türkiye,2019,154489.0
+Spain,Greece,2019,0.0
+Spain,United Kingdom,2019,0.0
+United Kingdom,France,2019,136042.0
+United Kingdom,United Kingdom,2019,0.0
+Türkiye,Spain,2019,5312.0
+Portugal,France,2019,614174.0
+Portugal,Switzerland,2019,119056.0
+Spain,France,2019,152192.0
+Greece,Germany,2019,3130.0
+Spain,Italy,2019,0.0
+Greece,France,2019,147.0
+Greece,United Kingdom,2019,74000.0
+United Kingdom,Germany,2019,36000.0
+Türkiye,Germany,2019,1319000.0
+United Kingdom,Switzerland,2019,45740.0
+Germany,Spain,2019,192090.0
+Italy,Switzerland,2019,322127.0
+Switzerland,Italy,2019,113.0
+United Kingdom,Spain,2019,142023.0
+France,Greece,2019,5.0
+United Kingdom,Greece,2019,0.0
+Türkiye,Spain,2019,2727.0
+Türkiye,France,2019,263972.0
+United Kingdom,Italy,2019,0.0
+France,Türkiye,2019,3089.0
+United Kingdom,Portugal,2019,0.0
+France,Portugal,2019,9175.0
+Greece,France,2019,5033.0
+Spain,Italy,2019,24936.0
+Spain,Germany,2019,5.0
+France,United Kingdom,2019,183000.0
+France,Italy,2019,75305.0
+Germany,Germany,2019,0.0
+United Kingdom,Switzerland,2019,21242.0
+Türkiye,Italy,2019,8161.0
+Spain,Portugal,2019,14066.0
+Portugal,Italy,2019,6275.0
+Germany,Portugal,2019,6127.0
+Spain,Portugal,2019,6895.0
+Switzerland,Spain,2019,63110.0
+France,Türkiye,2019,19018.0
+United Kingdom,Germany,2019,106155.0
+Türkiye,United Kingdom,2019,88000.0
+Greece,Switzerland,2019,14393.0
+Spain,Switzerland,2019,68615.0
+Spain,Türkiye,2019,1065.0
+Italy,Germany,2019,268705.0
+Greece,Switzerland,2019,6866.0
+Switzerland,Germany,2019,1545.0
+Spain,Italy,2019,16745.0
+Spain,Portugal,2019,0.0
+France,Portugal,2019,29.0
+Greece,Germany,2019,166060.0
+Greece,Italy,2019,16372.0
+France,Italy,2019,17664.0
+Germany,Türkiye,2019,82031.0
+France,Spain,2019,211920.0
+United Kingdom,France,2019,82864.0
+Italy,France,2019,104702.0
+Switzerland,Spain,2019,15753.0
+Germany,Switzerland,2019,307866.0
+Portugal,France,2019,253806.0
+Türkiye,Portugal,2019,535.0
+Germany,United Kingdom,2019,305000.0
+France,Germany,2019,865.0
+Portugal,Germany,2019,138890.0
+Germany,Türkiye,2019,42972.0
+Greece,Spain,2019,2298.0
+France,Spain,2019,111509.0
+Switzerland,France,2019,54510.0
+Germany,Italy,2019,116204.0
+Portugal,Italy,2019,6435.0
+Italy,France,2019,160897.0
+Türkiye,Switzerland,2019,31584.0
+Switzerland,Türkiye,2019,7844.0
+Portugal,Italy,2019,4143.0
+Greece,France,2019,8148.0
+Greece,Spain,2019,5469.0
+Spain,Switzerland,2019,33758.0
+Italy,Switzerland,2019,117517.0
+United Kingdom,Spain,2019,290244.0
+Spain,United Kingdom,2019,146000.0
+United Kingdom,Germany,2019,0.0
+United Kingdom,Portugal,2019,26445.0
+France,Italy,2019,29008.0
+Portugal,Switzerland,2019,217662.0
+Germany,France,2019,81129.0
+United Kingdom,Italy,2019,37234.0
+Germany,Italy,2019,22087.0
+Portugal,Germany,2019,52000.0
+Greece,Portugal,2019,267.0
+Switzerland,Germany,2019,54000.0
+Türkiye,Italy,2019,19345.0
+Türkiye,France,2019,102986.0
+France,Switzerland,2019,85395.0
+Spain,Italy,2019,22804.0
+France,Portugal,2019,19771.0
+Italy,France,2019,227981.0
+Portugal,Spain,2019,42933.0
+France,Türkiye,2019,1535.0
+Germany,Portugal,2019,12817.0
+United Kingdom,Italy,2019,27857.0
+United Kingdom,Switzerland,2019,40957.0
+Türkiye,United Kingdom,2019,39000.0
+Germany,Switzerland,2019,178856.0
+Portugal,Greece,2019,0.0
+Italy,Türkiye,2019,713.0
+Italy,Spain,2019,243748.0
+Portugal,Türkiye,2019,270.0
+Germany,Spain,2019,138321.0
+United Kingdom,Spain,2019,286753.0
+Italy,Germany,2019,508000.0
+Greece,Italy,2019,3599.0
+France,Switzerland,2019,135259.0
+Greece,Türkiye,2019,29614.0
+Greece,Türkiye,2019,3295.0
+Italy,Spain,2019,60645.0
+Greece,Germany,2019,298000.0
+United Kingdom,Germany,2019,39950.0
+Switzerland,Spain,2019,31836.0
+France,Germany,2019,72225.0
+Spain,Switzerland,2019,84331.0
+Italy,Switzerland,2019,135434.0
+Portugal,Italy,2019,3497.0
+Türkiye,Germany,2019,1476410.0
+Portugal,United Kingdom,2019,74000.0
+Spain,Switzerland,2019,5.0
+Spain,France,2019,177436.0
+Spain,Germany,2019,84555.0
+Italy,United Kingdom,2019,246000.0
+Germany,France,2019,190323.0
+France,Türkiye,2019,37524.0
+Spain,Spain,2019,0.0
+Portugal,Spain,2019,103448.0
+Italy,Portugal,2019,18862.0
+Greece,United Kingdom,2019,31000.0
+Türkiye,Spain,2019,2368.0
+France,Spain,2019,109055.0
+Italy,United Kingdom,2019,110000.0
+Germany,Türkiye,2019,292437.0
+Portugal,Switzerland,2019,265518.0
+Greece,Italy,2019,8526.0
+Türkiye,France,2019,214182.0
+Germany,Spain,2019,98356.0
+Portugal,Germany,2019,0.0
+Greece,Switzerland,2019,6422.0
+Spain,Switzerland,2019,1577.0
+Türkiye,Germany,2019,646000.0
+United Kingdom,Switzerland,2019,0.0
+Greece,Portugal,2019,516.0
+Germany,Italy,2019,35422.0
+Spain,France,2019,274073.0
+Germany,Italy,2019,1215.0
+Türkiye,Switzerland,2019,80417.0
+Portugal,France,2019,0.0
+Switzerland,Italy,2019,102371.0
+Greece,Italy,2019,7431.0
+France,Germany,2019,133000.0
+Greece,France,2019,9362.0
+United Kingdom,Germany,2019,107000.0
+Switzerland,Portugal,2019,2190.0
+United Kingdom,Spain,2019,145538.0
+Greece,Germany,2019,363205.0
+Spain,Germany,2019,142000.0
+Spain,Italy,2019,494.0
+Greece,Switzerland,2019,14716.0
+Greece,Spain,2019,2519.0
+Switzerland,Spain,2019,381.0
+Türkiye,France,2019,124907.0
+Greece,Türkiye,2019,15924.0
+Greece,Germany,2019,132000.0
+Spain,Türkiye,2019,450.0
+Germany,Switzerland,2019,138492.0
+Switzerland,Türkiye,2019,14743.0
+United Kingdom,France,2019,163622.0
+Switzerland,Türkiye,2019,884.0
+France,Switzerland,2019,61355.0
+United Kingdom,Türkiye,2019,6075.0
+Spain,United Kingdom,2019,76000.0
+Türkiye,Spain,2019,6479.0
+Italy,Türkiye,2019,4597.0
+Portugal,Türkiye,2019,97.0
+Italy,Spain,2019,107295.0
+Spain,France,2019,0.0
+Portugal,France,2019,537163.0
+Türkiye,Switzerland,2019,38122.0
+Switzerland,Italy,2019,190421.0
+Italy,Türkiye,2019,1957.0
+Portugal,Germany,2019,62195.0
+United Kingdom,France,2019,0.0
+Italy,Türkiye,2019,2108.0
+United Kingdom,Italy,2019,15164.0
+United Kingdom,Switzerland,2019,17430.0
+France,Spain,2019,90.0
+United Kingdom,Portugal,2019,12240.0
+Italy,Switzerland,2019,268829.0
+Italy,Germany,2019,643530.0
+Türkiye,Switzerland,2019,66732.0
+Türkiye,Portugal,2019,1090.0
+Spain,Spain,2019,0.0
+Türkiye,Italy,2019,18780.0
+Türkiye,Germany,2019,714680.0
+Germany,United Kingdom,2019,168000.0
+Portugal,Spain,2019,102837.0
+France,United Kingdom,2019,98000.0
+United Kingdom,Türkiye,2019,33367.0
+Italy,Spain,2019,147024.0
+United Kingdom,France,2019,66610.0
+United Kingdom,Italy,2019,64517.0
+United Kingdom,Spain,2019,5.0
+Germany,Germany,2019,0.0
+Spain,Germany,2019,176020.0
+Greece,Türkiye,2019,6245.0
+Switzerland,France,2019,100837.0
+Switzerland,Germany,2019,28000.0
+Spain,Germany,2019,16195.0
+Portugal,Germany,2019,112000.0
+Portugal,Portugal,2019,0.0
+Germany,France,2019,44554.0
+Germany,Switzerland,2019,355330.0
+Greece,France,2019,15065.0
+France,Switzerland,2019,169369.0
+Türkiye,Italy,2019,8433.0
+Germany,Italy,2019,205471.0
+Portugal,United Kingdom,2019,149000.0
+Greece,Spain,2019,5078.0
+Spain,Spain,2019,0.0
+Italy,Germany,2019,199000.0
+Italy,France,2019,315426.0
+Spain,France,2019,88853.0
+Portugal,Spain,2019,45689.0
+France,Italy,2019,124817.0
+Portugal,France,2019,304595.0
+Spain,Switzerland,2019,38516.0
+Spain,Italy,2019,33657.0
+France,Germany,2019,140900.0
+Portugal,Switzerland,2019,99810.0
+France,Spain,2019,55643.0
+Portugal,Italy,2019,0.0
+Germany,Spain,2019,70410.0
+Greece,Switzerland,2019,400.0
+Italy,Spain,2019,284.0
+Germany,Switzerland,2019,3370.0
+United Kingdom,Italy,2019,394.0
+Spain,Switzerland,2019,646.0
+Switzerland,Portugal,2019,1023.0
+Switzerland,France,2019,173.0
+Germany,United Kingdom,2019,4331.0
+Türkiye,Switzerland,2019,103.0
+Spain,Switzerland,2019,3304.0
+Switzerland,Spain,2019,2.0
+Italy,Germany,2019,4475.0
+Germany,Italy,2019,114.0
+Greece,Italy,2019,0.0
+Portugal,Germany,2019,390.0
+Portugal,Spain,2019,312.0
+United Kingdom,Switzerland,2019,2317.0
+France,Switzerland,2019,8700.0
+France,Italy,2019,0.0
+Germany,Switzerland,2019,13829.0
+Türkiye,Greece,2019,26.0
+Türkiye,Italy,2019,170.0
+Türkiye,Italy,2019,256.0
+United Kingdom,Portugal,2019,110.0
+Spain,Greece,2019,0.0
+United Kingdom,Greece,2019,30.0
+Germany,Italy,2019,0.0
+Spain,United Kingdom,2019,2604.0
+Spain,Portugal,2019,42.0
+United Kingdom,Switzerland,2019,359.0
+Switzerland,United Kingdom,2019,211.0
+Türkiye,United Kingdom,2019,940.0
+Germany,Portugal,2019,22.0
+Spain,Italy,2019,68.0
+France,Switzerland,2019,1375.0
+Italy,United Kingdom,2019,5774.0
+Portugal,Switzerland,2019,2801.0
+France,United Kingdom,2019,4472.0
+Switzerland,Germany,2019,260.0
+Switzerland,Italy,2019,4514.0
+Italy,France,2019,1015.0
+United Kingdom,France,2019,2094.0
+Germany,Greece,2019,15.0
+Spain,France,2019,265.0
+Germany,Greece,2019,7.0
+Germany,Germany,2019,0.0
+Switzerland,Greece,2019,0.0
+Switzerland,United Kingdom,2019,127.0
+Italy,Switzerland,2019,2881.0
+Greece,Spain,2019,7.0
+Portugal,France,2019,848.0
+Greece,France,2019,89.0
+Türkiye,United Kingdom,2019,2145.0
+Türkiye,Greece,2019,63.0
+Italy,Portugal,2019,30.0
+Greece,Switzerland,2019,184.0
+Switzerland,Türkiye,2019,450.0
+Greece,Italy,2019,53.0
+Germany,Spain,2019,24.0
+France,Italy,2019,0.0
+United Kingdom,Germany,2019,14600.0
+Portugal,Greece,2019,0.0
+Spain,Switzerland,2019,1386.0
+Portugal,Italy,2019,17.0
+Türkiye,Spain,2019,32.0
+Portugal,Switzerland,2019,1496.0
+Germany,Germany,2019,0.0
